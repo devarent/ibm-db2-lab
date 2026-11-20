@@ -1,4 +1,38 @@
 
+<!-- identity-block -->
+<div align="center">
+
+# ibm-db2-lab
+
+<sub>Start IBM Db2 Community Edition in Docker, create a schema, and practice Db2 SQL and the command line processor.</sub>
+
+</div>
+
+## At a glance
+
+| Field | Detail |
+| --- | --- |
+| Repository | ibm-db2-lab |
+| Primary language | Mixed / documentation |
+| Topics | database, database-labs, devarent, docker, ibm-db2, lab, relational-database, sql |
+| License | MIT |
+| Branch | main |
+| Maintainer | [@devarent](https://github.com/devarent) |
+
+## Overview
+
+ibm-db2-lab is a hands-on repository focused on: Start IBM Db2 Community Edition in Docker, create a schema, and practice Db2 SQL and the command line processor.. Primary language: Mixed / documentation. Topics: database, database-labs, devarent, docker, ibm-db2, lab, relational-database, sql. The README below documents the project; use the table above for a quick overview.
+
+### Global references
+
+<div align="center">
+
+🇮🇸 Iceland &middot; 🇳🇿 New Zealand &middot; 🇨🇭 Switzerland &middot; 🇸🇮 Slovenia &middot; 🇮🇪 Ireland &middot; 🇦🇹 Austria &middot; 🇵🇹 Portugal &middot; 🇸🇬 Singapore &middot; 🇫🇮 Finland
+
+</div>
+
+---
+
 <!-- dbx-style-kit -->
 <div align="center">
 
